@@ -1,0 +1,10 @@
+{
+  "domain": "alexa_rtc_patch",
+  "name": "Alexa RTC live view patch (test build)",
+  "codeowners": ["@nolimit-labs"],
+  "dependencies": ["camera"],
+  "documentation": "https://github.com/nolimit-labs/core/tree/alexa-rtc-test-package",
+  "integration_type": "system",
+  "iot_class": "cloud_push",
+  "version": "0.1.0"
+}
